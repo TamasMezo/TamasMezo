@@ -1,10 +1,9 @@
 ### Hey there 👋
 
-### Welcome to my portfolio!
+### Welcome to my github!
 
 - I'm a Full Software Engineer, with passion for programming and user experience
 - I can help you build webapps, mobile apps, CTV apps
-- 🔭 I’m currently working on a streamin app for Manchester United
 
 ### 🌱  I am a tech enthusiast: I love writing code and solving problems, main tech stack:
 - React, Angular
@@ -15,11 +14,19 @@
 - Postgresql, MySQL, MongoDB
 - TypeORM, Prisma
 - TypeScript
+- AWS & Serverless
+
+### 🔭 I’m currently working on
+- the new digital offering of the world's leading broadcaster company
+
+### 🌱 I’m currently learning
+- AWS services and Serverless framework
 
 ### 📫 Contact
 - Reach out to me in case you want build something special ⬇️
 - Portfilio website: https://www.tamasmezo.com/
 - Email: tamas.mezo@codecrew.hu
+
 
 <!--
 **TamasMezo/TamasMezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
